@@ -1,8 +1,49 @@
-# React + Vite
+# Legendary Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+## Table of Contents (Optional)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Badges](#badges)
+- [Features](#features)
+- [Contribute](#how-to-contribute)
+- [Test](#tests)
+
+## Installation
+
+
+
+## Usage
+
+## Credits
+
+## License
+
+![MIT License](https://img.shields.io/badge/License-MIT-darkgreen)
+
+
+## Badges
+
+![MIT License](https://img.shields.io/badge/License-MIT-darkgreen)
+
+![GitHub](https://img.shields.io/badge/GitHub-black)
+
+(https://shields.io/)
+
+## Features
+
+## How to Contribute
+
+You can contribute via the following GitHub link.
+
+https://github.com/ccreed86/reactjs-todo
+
+Clone the repo and request a merge via push of your contributions. If you have further questions please email me at 
+
+cliftionreed1986@gmail.com
+
+
